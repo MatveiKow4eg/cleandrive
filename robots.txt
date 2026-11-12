@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://cleandrive-ahtme.airybluff8.chatgpt.site/sitemap.xml
